@@ -1,0 +1,36 @@
+id_producto,nombre,categoria,marca,tienda,precio
+1,Celular Samsung Galaxy A54 128GB,Tecnologia,Samsung,Creditos Economicos,349.99
+2,Celular Xiaomi Redmi Note 12 128GB,Tecnologia,Xiaomi,Creditos Economicos,199.99
+3,Celular iPhone 14 Pro 128GB,Tecnologia,Apple,Creditos Economicos,1099.99
+4,Celular Honor X8a 128GB,Tecnologia,Honor,Creditos Economicos,249.99
+5,Celular Samsung Galaxy S23 Ultra,Tecnologia,Samsung,Creditos Economicos,1199.99
+6,Laptop HP 15-dy2024la Core i3,Tecnologia,HP,Creditos Economicos,499.99
+7,Laptop Asus VivoBook 15 Core i5,Tecnologia,Asus,Creditos Economicos,649.99
+8,Laptop Lenovo IdeaPad 3 Ryzen 5,Tecnologia,Lenovo,Creditos Economicos,529.99
+9,MacBook Air 13'' Chip M2 256GB,Tecnologia,Apple,Creditos Economicos,1299.99
+10,Tablet Lenovo Tab M10 HD,Tecnologia,Lenovo,Creditos Economicos,179.99
+11,Smart TV LG 55'' UHD 4K,TV y Audio,LG,Creditos Economicos,489.99
+12,Smart TV Samsung 65'' Crystal 4K,TV y Audio,Samsung,Creditos Economicos,699.99
+13,Smart TV Sony Bravia 75'' 4K HDR,TV y Audio,Sony,Creditos Economicos,1399.99
+14,Smart TV TCL 43'' Full HD,TV y Audio,TCL,Creditos Economicos,279.99
+15,Soundbar Samsung HW-T450 Bluetooth,TV y Audio,Samsung,Creditos Economicos,149.99
+16,Consola PlayStation 5 Slim 1TB,TV y Audio,Sony,Creditos Economicos,649.99
+17,Consola Nintendo Switch OLED 64GB,TV y Audio,Nintendo,Creditos Economicos,399.99
+18,Audífonos Gamer HyperX Cloud II,Tecnologia,HyperX,Creditos Economicos,89.99
+19,Reloj Inteligente Huawei Watch GT 4,Tecnologia,Huawei,Creditos Economicos,229.99
+20,Refrigeradora Indurama RI-485 390L,Electrodomesticos,Indurama,Creditos Economicos,629.99
+21,Cocina Indurama Montecarlo 4Q a Gas,Electrodomesticos,Indurama,Creditos Economicos,459.99
+22,Lavadora Samsung WA19T6260BY 19kg,Electrodomesticos,Samsung,Creditos Economicos,679.99
+23,Refrigeradora LG No Frost 400L,Electrodomesticos,LG,Creditos Economicos,799.99
+24,Cocina Mabe a Gas 4 quemadores,Electrodomesticos,Mabe,Creditos Economicos,299.99
+25,Microondas Mabe 20 Litros Negro,Electrodomesticos,Mabe,Creditos Economicos,109.99
+26,Licuadora Oster Reversible 2 Velocidades,Electrodomesticos,Oster,Creditos Economicos,95.0
+27,Freidora de Aire Black & Decker 4.5L,Electrodomesticos,Black & Decker,Creditos Economicos,85.0
+28,Cafetera Hamilton Beach de Goteo 12tz,Electrodomesticos,Hamilton Beach,Creditos Economicos,55.0
+29,Aire Acondicionado LG Split 12000 BTU,Climatizacion,LG,Creditos Economicos,469.99
+30,Ventilador de Pedestal Taurus 16'',Climatizacion,Taurus,Creditos Economicos,45.0
+31,Colchon Chaide Imperial 2 plazas,Hogar,Chaide,Creditos Economicos,289.99
+32,Sofa Cama Plegable Microfibra,Hogar,Generico,Creditos Economicos,229.99
+33,Juego de Comedor 4 puestos Madera,Hogar,Generico,Creditos Economicos,349.99
+34,Escritorio Gamer Xtratech Fibra Carbono,Hogar,Xtratech,Creditos Economicos,119.99
+35,Silla de Oficina Ergonomica Ejecutiva,Hogar,Generico,Creditos Economicos,79.99
